@@ -1,0 +1,19 @@
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\bin\Debug\Captcha.exe
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\bin\Debug\Captcha.pdb
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.Form1.resources
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.Properties.Resources.resources
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.exe
+C:\Users\comp\AppData\Local\Temporary Projects\Captcha\obj\x86\Debug\Captcha.pdb
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.exe
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.pdb
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.exe
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\bin\Debug\Captcha.pdb
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.Form1.resources
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\Captcha.Properties.Resources.resources
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\comp\documents\visual studio 2010\Projects\Captcha\Captcha\bin\Debug\OpenCvSharp.dll
